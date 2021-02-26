@@ -10,3 +10,10 @@ body {
     width: 1000px;
     margin: 30px auto;
 }
+
+body * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
