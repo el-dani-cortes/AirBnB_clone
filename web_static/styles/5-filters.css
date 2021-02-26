@@ -29,7 +29,9 @@ button:hover {
 .locations, .amenities {
     height: 100%;
     width: 25%;
-    margin: auto auto auto 50px;
+    padding-left: 50px;
+    position: relative;
+    padding-top: 15px;
 }
 
 .locations {
