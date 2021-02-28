@@ -4,7 +4,7 @@
     flex-wrap: wrap;
 }
 
-.places articule {
+.places article {
     width: 390px;
     padding: 20px;
     margin: 20px;
@@ -23,7 +23,7 @@
     padding-left: 30px;
 }
 
-.places .articule h2 {
+.places .article h2 {
     font-size: 30px;
 }
 
