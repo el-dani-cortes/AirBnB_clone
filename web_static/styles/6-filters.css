@@ -9,6 +9,11 @@
     align-items: center;
 }
 
+ul, ol {
+    list-style: none;
+}
+
+
 .filters div h3{
     font-weight: 600;
     margin-bottom: 0px;
@@ -58,14 +63,14 @@ button:hover {
     background-color: #FAFAFA;
     width: 100%;
     min-height: 161px;
-    max-height: 200px;
+    max-height: 300px;
     border: 1px #DDDDDD solid;
     border-radius: 4px;
     display: none;
     position: absolute;
     left: 0;
-    bottom: -200px;
-    overflow: hidden scroll;
+    bottom: -311px;
+    overflow: hidden;
     padding-bottom: 30px;
 }
 
@@ -89,7 +94,7 @@ button:hover {
 }
 
 .amenities .popover {
-    bottom: -161px;
+    bottom: -219px;
     padding-top: 25px;
 }
 

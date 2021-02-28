@@ -30,8 +30,6 @@ button:hover {
     height: 100%;
     width: 25%;
     padding-left: 50px;
-    position: relative;
-    padding-top: 15px;
 }
 
 .locations {
@@ -41,7 +39,7 @@ button:hover {
 
 .filters div h3{
     font-weight: 600;
-    margin-bottom: 0px;
+    margin-top: 15px;
 }
 
 .filters div h4 {
